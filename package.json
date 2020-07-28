@@ -66,7 +66,7 @@
     "@fortawesome/fontawesome": "^1.0.1",
     "@fortawesome/fontawesome-free-brands": "^5.0.1",
     "@fortawesome/fontawesome-free-solid": "^5.0.1",
-    "@fortawesome/react-fontawesome": "0.0.15",
+    "@fortawesome/react-fontawesome": "0.0.16",
     "axios": "^0.17.1",
     "babel-plugin-syntax-async-functions": "^6.13.0",
     "babel-plugin-transform-regenerator": "^6.26.0",
