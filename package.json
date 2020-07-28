@@ -80,7 +80,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.0.0",
     "react-hot-loader": "^4.12.21",
-    "styled-components": "^2.2.4"
+    "styled-components": "^4.0.0"
   },
   "eslintConfig": {
     "globals": {
