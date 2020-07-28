@@ -77,7 +77,7 @@
     "jquery": "^3.2.1",
     "jquery_tubular_plugin": "^1.0.1",
     "prop-types": "^15.7.2",
-    "react": "^16.0.0",
+    "react": "^16.13.1",
     "react-dom": "^16.0.0",
     "react-hot-loader": "^3.0.0",
     "styled-components": "^2.2.4"
