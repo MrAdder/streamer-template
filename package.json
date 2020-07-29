@@ -74,7 +74,7 @@
     "babel-preset-es2015": "^6.24.1",
     "dotenv-webpack": "^2.0.0",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery_tubular_plugin": "^1.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
