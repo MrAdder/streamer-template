@@ -46,7 +46,7 @@
     "eslint-plugin-react": "^7.20.5",
     "extract-text-webpack-plugin": "^3.0.1",
     "file-loader": "^2.0.0",
-    "flow-bin": "^0.130.0",
+    "flow-bin": "^0.148.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
     "image-webpack-loader": "^6.0.0",
